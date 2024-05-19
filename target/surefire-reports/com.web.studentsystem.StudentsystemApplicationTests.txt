@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.web.studentsystem.StudentsystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.929 s -- in com.web.studentsystem.StudentsystemApplicationTests
